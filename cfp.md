@@ -25,14 +25,13 @@ This workshop aims to investigate the principles and practice of consistency mod
 
 Relevant discussion topics include:
  * Design principles, correctness conditions, and programming patterns for scalable distributed data systems.
-
  * Techniques for weak consistency: session guarantees, causal consistency, operational transformation, conflict-free replicated data types, monotonic programming, state merge, commutativity, etc.
- * Consistency vs. performance and scalability trade-offs: guiding developers, controlling the system.
- * Analysis and verification of weakly consistent programs.
- * Strengthening guarantees of weakly consistent system: transactions, fault tolerance, security, ensuring invariants, bounding metadata size, and controlling divergence.
- * Platform guarantees vs. application involvement: guiding developers, controlling the system.
- * Techniques for scaling and improving the performance of strongly consistent systems (e.g., Paxos-based or state machine replication).
-
+ * Techniques for scaling and improving the performance of strongly consistent systems (e.g., Paxos-based, state machine replication, shared-log consensus, blockchain).
+ * How to expose consistency vs. performance and scalability trade-offs in the programming model, and how to help developers choose.
+ * How to support composed operations spanning multiple objects (transactions, workflows).
+ * Reasoning, analysis and verification of weakly consistent application programs.
+ * How to strengthen the guarantees beyond consistency: fault tolerance, security, ensuring invariants, bounding metadata size, and controlling divergence.
+ 
 
 ### Important Dates
 
