@@ -8,7 +8,7 @@ We solicit proposals for contributed talks. We recommend preparing proposals of 
 
 Authors will have the opportunity to choose if they want their papers published in ACM Digital Library (with papers from other EuroSys workshops).
 
-All paper submissions will be handled via Easychair.
+All paper submissions will be handled via [EasyChair](https://easychair.org/conferences/?conf=papoc18).
 
 ### Important Dates
 

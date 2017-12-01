@@ -10,7 +10,17 @@ title: Committees
 
 ## Program Committee
 
- * TBD
+ * Alejandro Tomsic (INRIA)
+ * Ali Shoker	(HASLab, INESC TEC & University of Minho)
+ * Constantin Enea (IRIF, University Paris Diderot)
+ * Jose Faleiro	(Yale University)	 
+ * Kapil Vaswani	(Microsoft Research, Cambridge) 
+ * Lindsey Kuper (Indiana University)	 
+ * Natacha Crooks	(University of Texas, Austin)
+ * Paolo Viotti	(UPMC-LIP6)	
+ * Roberto Palmieri (Lehigh University) 
+ * Rodrigo Rodrigues (Univ. Lisboa and INESC-ID)
+ * ... and a few still thinking about it ...
 
 ## Steering Committee
 
