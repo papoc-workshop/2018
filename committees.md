@@ -16,12 +16,12 @@ title: Committees
  * Jose Faleiro	(Yale University)	 
  * Kapil Vaswani	(Microsoft Research, Cambridge) 
  * Lindsey Kuper (Intel Labs)	 
- * Masoud Arkekani (Samsung Research America)
+ * Masoud Ardekani (Samsung Research America)
  * Natacha Crooks	(University of Texas, Austin)
  * Paolo Viotti	(UPMC-LIP6)	
  * Roberto Palmieri (Lehigh University) 
  * Rodrigo Rodrigues (Univ. Lisboa and INESC-ID)
- * ... and a few still thinking about it ...
+ * ... and a couple still thinking about it ...
 
 ## Steering Committee
 
