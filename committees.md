@@ -2,7 +2,6 @@
 title: Committees
 ---
 
-
 ## Program Chairs
 
  * Sebastian Burckhardt (Microsoft Research, Redmond, USA)
@@ -10,26 +9,27 @@ title: Committees
 
 ## Program Committee
 
- * Alejandro Tomsic (INRIA)
- * Ali Shoker	(HASLab, INESC TEC & University of Minho)
- * Constantin Enea (IRIF, University Paris Diderot)
- * Jose Faleiro	(Yale University)	 
- * Kapil Vaswani	(Microsoft Research, Cambridge) 
- * Lindsey Kuper (Intel Labs)	 
  * Masoud Ardekani (Samsung Research America)
  * Natacha Crooks	(University of Texas, Austin)
- * Paolo Viotti	(UPMC-LIP6)	
+ * Constantin Enea (IRIF, University Paris Diderot)
+ * Jose Faleiro	(Yale University)	 
+ * Rachid Guerraoui (EPFL, Switzerland)
+ * Lindsey Kuper (Intel Labs)	 
  * Roberto Palmieri (Lehigh University) 
  * Rodrigo Rodrigues (Univ. Lisboa and INESC-ID)
- * ... and a couple still thinking about it ...
+ * Ali Shoker	(HASLab, INESC TEC & University of Minho)
+ * Alejandro Tomsic (INRIA)
+ * Kapil Vaswani	(Microsoft Research, Cambridge) 
+ * Paolo Viotti	(UPMC-LIP6)	
 
 ## Steering Committee
 
  * Marc Shapiro (INRIA & LIP6, France)
- * Alexey Gotsman (IMDEA Software Institute, Spain)
- * Annette Bieniusa (University of Kaiserslautern, Germany)
- * Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
- * Justin Sheehy (VMware Inc., USA)
- * Marco Serafini (Qatar Computing Research Institute, Qatar)
- * Nuno Preguiça (NOVA-LINCS & NOVA University of Lisbon, Portugal)
  * Peter Bailis (Stanford University, USA)
+ * Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
+ * Annette Bieniusa (University of Kaiserslautern, Germany)
+ * Alexey Gotsman (IMDEA Software Institute, Spain)
+ * Nuno Preguiça (NOVA-LINCS & NOVA University of Lisbon, Portugal)
+ * Marco Serafini (Qatar Computing Research Institute, Qatar)
+ * Justin Sheehy (VMware Inc., USA)
+ 
