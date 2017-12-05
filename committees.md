@@ -9,18 +9,19 @@ title: Committees
 
 ## Program Committee
 
- * Masoud Ardekani (Samsung Research America)
- * Natacha Crooks	(University of Texas, Austin)
- * Constantin Enea (IRIF, University Paris Diderot)
- * Jose Faleiro	(Yale University)	 
- * Rachid Guerraoui (EPFL, Switzerland)
- * Lindsey Kuper (Intel Labs)	 
- * Roberto Palmieri (Lehigh University) 
- * Rodrigo Rodrigues (Univ. Lisboa and INESC-ID)
- * Ali Shoker	(HASLab, INESC TEC & University of Minho)
- * Alejandro Tomsic (INRIA)
- * Kapil Vaswani	(Microsoft Research, Cambridge) 
- * Paolo Viotti	(UPMC-LIP6)	
+ * Masoud Ardekani (Samsung Research America, USA)
+ * Alysson Bessani (Universidade de Lisboa, Portugal)
+ * Natacha Crooks	(University of Texas, Austin, USA)
+ * Constantin Enea (IRIF, University Paris Diderot, France)
+ * Jose Faleiro	(Yale University, USA)	 
+ * Rachid Guerraoui (École Polytechnique Fédérale de Lausanne, Switzerland)
+ * Lindsey Kuper (Intel Labs, USA)	 
+ * Roberto Palmieri (Lehigh University, USA) 
+ * Rodrigo Rodrigues (Universidade de Lisboa and INESC-ID, Portugal)
+ * Ali Shoker	(HASLab, INESC TEC & University of Minho, Portugal)
+ * Alejandro Tomsic (INRIA, France)
+ * Kapil Vaswani (Microsoft Research, Cambridge, UK) 
+ * Paolo Viotti	(UPMC-LIP6, France)	
 
 ## Steering Committee
 
