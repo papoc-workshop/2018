@@ -22,6 +22,7 @@ title: Committees
  * Alejandro Tomsic (INRIA, France)
  * Kapil Vaswani (Microsoft Research, Cambridge, UK) 
  * Paolo Viotti	(UPMC-LIP6, France)	
+ * Marek Zawirski (Google Zürich, Switzerland)
 
 ## Steering Committee
 
