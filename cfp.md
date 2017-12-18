@@ -2,6 +2,8 @@
 title: CFP
 ---
 
+An e-mail and print-friendly format of the call for papers is available at [https://easychair.org/cfp/papoc18](https://easychair.org/cfp/papoc18).  
+
 ## Call for Papers
 
 Consistency is one of the fundamental issues of distributed computing.
