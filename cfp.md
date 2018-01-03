@@ -2,7 +2,7 @@
 title: CFP
 ---
 
-For alternative formats of this call for papers, follow the links for [https://easychair.org/cfp/papoc18](formatted text) and [cfp.txt](unformatted text).  
+For alternative formats of this call for papers, follow the links for [formatted text](https://easychair.org/cfp/papoc18) and [unformatted text](cfp.txt).  
 
 ## Call for Papers
 
