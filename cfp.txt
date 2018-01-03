@@ -1,0 +1,80 @@
+﻿# Principles and Practice of Consistency for Distributed Data  
+
+Workshop: April 23rd in Porto, Portugal
+Website: https://papoc-workshop.github.io/2018/
+Call for Papers: https://easychair.org/cfp/papoc18
+Submission: proposals for contributed talks, 2 pages or more, optionally included in ACM EuroSys proceedings
+Submission deadline:  **February 07, 2018**
+
+## Topics
+
+Consistency is one of the fundamental issues of distributed computing. There are many competing consistency models, with subtly different power in principle. In practice, the well-known Consistency-Availability-Partition Tolerance trade-off translates to difficult choices between fault tolerance, performance, and programmability. The issues and trade-offs are particularly vexing at scale, with a large number of processes or a large shared database, and in the presence of high latency and failure-prone networks. It is clear that there is not one universally best solution.
+
+Possible approaches cover the whole spectrum between strong and eventual consistency. Strong consistency (linearizability or serializability, achieved via total ordering) provides familiar and intuitive semantics but requires slow and fragile synchronisation and coordination overheads. The unlimited parallelism allowed by weaker models such as eventual consistency promises high performance, but divergence and conflicts make it difficult to ensure useful application invariants, and meta-data is hard to keep in check. The research and development communities are actively exploring intermediate models (replicated data types, monotonic programming, CRDTs, LVars, causal consistency, red-blue consistency, invariant- and proof-based systems, etc.), designed to improve efficiency, programmability, and overall operation without negatively impacting scalability.
+
+This workshop aims to investigate the principles and practice of consistency models for large-scale, fault-tolerant, distributed shared data systems. It will bring together theoreticians and practitioners from different horizons: system development, distributed algorithms, concurrency, fault tolerance, databases, language and verification, including both academia and industry.
+
+Relevant discussion topics include:
+
+ -  Design principles, correctness conditions, and programming patterns for scalable distributed data systems.
+ -  Techniques for weak consistency: session guarantees, causal consistency, operational transformation, conflict-free replicated data types, monotonic programming, state merge, commutativity, etc.
+ -  Techniques for scaling and improving the performance of strongly consistent systems (e.g., Paxos-based, state machine replication, shared-log consensus, blockchain).
+ -  How to expose consistency vs. performance and scalability trade-offs in the programming model, and how to help developers choose.
+ -  How to support composed operations spanning multiple objects (transactions, workflows).
+ -  Reasoning, analysis and verification of weakly consistent application programs.
+ -  How to strengthen the guarantees beyond consistency: fault tolerance, security, ensuring invariants, bounding metadata size, and controlling divergence.
+
+## Venue and History
+
+The Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) is co-located with the EuroSys 2018 conference. It will take place on April 23, 2018, in the amazing city of Porto, in Portugal. This city was elected Best European Destination 2017. PaPoC'18 is the 5th workshop in this series, succeeding PaPeC 2014, PaPoC 2015, PaPoC 2016, and PaPoC 2017 which brought together researchers and practitioners in the areas of distributed systems, programming languages, databases and concurrent programming.
+
+## Submission Guidelines
+
+We solicit proposals for contributed talks. We recommend preparing proposals of 2 pages, written in English and in either plain text or PDF format. However, we will accept longer proposals or submissions to other conferences, under the understanding that PC members are only expected to read the first two pages of such longer submissions.
+Authors will have the opportunity to choose if they want their papers published in ACM Digital Library (with papers from other EuroSys workshops).
+All paper submissions will be handled via EasyChair. The submission deadline is February 07, 2018.
+
+## Program Chairs
+
+  -  Sebastian Burckhardt (Microsoft Research, Redmond, USA)
+  -  Marko Vukolic (IBM Research, Zurich, Switzerland)
+
+## Program Committee
+
+  -  Masoud Ardekani (Samsung Research America, USA)
+  -  Alysson Bessani (Universidade de Lisboa, Portugal)
+  -  Natacha Crooks (University of Texas, Austin, USA)
+  -  Constantin Enea (IRIF, University Paris Diderot, France)
+  -  Jose Faleiro (Yale University, USA)
+  -  Rachid Guerraoui (École Polytechnique Fédérale de Lausanne, Switzerland)
+  -  Lindsey Kuper (Intel Labs, USA)
+  -  Roberto Palmieri (Lehigh University, USA)
+  -  Rodrigo Rodrigues (Universidade de Lisboa and INESC-ID, Portugal)
+  -  Ali Shoker (HASLab, INESC TEC & University of Minho, Portugal)
+  -  Alejandro Tomsic (INRIA, France)
+  -  Kapil Vaswani (Microsoft Research, Cambridge, UK)
+  -  Paolo Viotti (UPMC-LIP6, France)
+  -  Marek Zawirski (Google Zürich, Switzerland)
+
+## Steering Committee
+
+  -  Marc Shapiro (INRIA & LIP6, France)
+  -  Peter Bailis (Stanford University, USA)
+  -  Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
+  -  Annette Bieniusa (University of Kaiserslautern, Germany)
+  -  Alexey Gotsman (IMDEA Software Institute, Spain)
+  -  Nuno Preguiça (NOVA-LINCS & NOVA University of Lisbon, Portugal)
+  -  Marco Serafini (Qatar Computing Research Institute, Qatar)
+  -  Justin Sheehy (VMware Inc., USA)
+
+## Important Dates
+
+Submission deadline:  February 07, 2018
+Notiﬁcation date: February 19, 2018
+Camera-Ready: March 8, 2018
+Workshop: April 23, 2018
+
+## Contact
+All questions about submissions should be emailed to Sebastian (sburckha@microsoft.com) and Marko (mvu@zurich.ibm.com).
+
+

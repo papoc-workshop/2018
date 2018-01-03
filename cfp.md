@@ -2,7 +2,7 @@
 title: CFP
 ---
 
-An e-mail and print-friendly format of the call for papers is available at [https://easychair.org/cfp/papoc18](https://easychair.org/cfp/papoc18).  
+For alternative formats of this call for papers, follow the links for [https://easychair.org/cfp/papoc18](formatted text) and [cfp.txt](unformatted text).  
 
 ## Call for Papers
 
