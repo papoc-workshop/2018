@@ -12,7 +12,7 @@ All paper submissions will be handled via [EasyChair](https://easychair.org/conf
 
 ### Important Dates
 
-|Submission deadline: | ~~February 07~~ **February 13**, 2018 |
+|Submission deadline: | ~~February 07~~ **extended to February 11**, 2018 |
 |--------------|--------------------------|
 |Notiﬁcation date: | February 19, 2018|
 |Camera-Ready: | March 8, 2018|
