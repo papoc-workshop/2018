@@ -8,7 +8,7 @@ This workshop aims to investigate the principles and practice of weak consistenc
 
 ### Important Dates
 
-|Submission deadline: | February 07, 2018 |
+|Submission deadline: | ~~February 07~~ **February 13**, 2018 |
 |--------------|--------------------------|
 |Notiﬁcation date: | February 19, 2018|
 |Camera-Ready: | March 8, 2018|
