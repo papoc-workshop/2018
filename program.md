@@ -124,21 +124,6 @@ Conflict-Free Replicated Data Types (CRDTs) allow objects to be replicated and c
 
 ## [16:50] **On the Consistency of Heterogeneous Clinical Data Sources** (Bilal Arshad)
 
-Highly-available distributed applications typically require data to
-be replicated over geo-distributed stores that offer weak consistency
-guarantees by default. Unfortunately, undesirable behaviors
-may arise under weak consistency that can violate application correctness,
-forcing designers to either implement complex ad-hoc
-mechanisms to avoid these anomalies or by sacrificing performance,
-choose to run applications using stronger levels of consistency. In
-this paper, we describe a lightweight runtime system that relieves
-developers from having to make such tradeoffs. Instead, our approach
-leverages declarative axiomatic specifications that reflect
-the necessary constraints any correct implementation must satisfy
-to guide a runtime consistency enforcement and monitoring
-mechanism. Experimental results show that the performance of
-our (provably optimal and safe) automatically derived fine-grained
-consistency enforcement mechanisms is better than common storeoffered
-consistency guarantees.
+We propose a novel approach to bridge the gap between Strong and Weak Consistency models using a powerful graph model. It tries to combine the benefits of both weak and strong consistency, much like a hybrid consistency model. In this work in progress paper, we introduce a new model 'GraphCon' to ensure structural consistency in a distributed clinical environment. This paper concisely explains the framework and discusses its feasibility. We aim to present a more comprehensive and empirical study in the future. 
 
 ## [17:10] End of Workshop
